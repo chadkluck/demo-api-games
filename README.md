@@ -9,4 +9,6 @@ From Falken's Maze to Tic-Tac-Toe, this demo api presents a list of games, and o
 
 You can see an example of the application at https://api.chadkluck.net/games
 
+If you would like some example JavaScript code that uses this API see github.com/chadkluck/js-template
+
 That's it! And that's all it does! Use it to start your own project or start from scratch by using github.com/chadkluck/php-project-framework
